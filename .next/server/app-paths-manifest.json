@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/leads/page": "app/leads/page.js",
+  "/integrations/page": "app/integrations/page.js",
+  "/ai-config/page": "app/ai-config/page.js",
+  "/settings/page": "app/settings/page.js"
+}
